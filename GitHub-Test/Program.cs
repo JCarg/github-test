@@ -10,6 +10,8 @@ namespace GitHub_Test
     {
         static void Main(string[] args)
         {
+            int x = 4;
+       
         }
     }
 }
